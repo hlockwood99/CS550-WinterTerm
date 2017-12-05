@@ -1,5 +1,5 @@
 
-import sys
+a = int(input('What is your name? '))
 
-print('Hello,', end=' ')
-print(sys.argv[1], end='')
+print('Hello '+a+'!')
+
