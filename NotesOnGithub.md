@@ -23,3 +23,8 @@
 - If you are satisfied that the code is helpful or useful in anyway, click the "Merge Pull Request" button
 - This will merge the branch into the master
 - Once that is complete, go delete the branch
+
+# Using the Desktop App
+- Treat Repositories as just a collection of code files
+- A new branch is not always needed
+- Remember to Push changes after committing them
